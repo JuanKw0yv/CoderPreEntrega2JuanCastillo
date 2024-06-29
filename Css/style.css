@@ -1,0 +1,103 @@
+/* HTML */
+
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+/* HEADER */
+
+.bonfire{
+    height: 60px;
+}
+
+.navbar{
+    background-color: #1b1725 !important; 
+}
+
+.nav-link{
+    color: rgb(255, 255, 255) !important;
+    font-size: 20px;
+}
+
+.navbar-toggler-icon{
+    background-color: rgb(129, 129, 129) !important;
+}
+
+.navbar-toggler{
+    background-color: rgb(129, 129, 129) !important;
+}
+
+/* MAIN */
+
+main{
+    background-color: #050505;
+}
+
+.cuerpo{
+    height: 70rem;
+}
+
+hr{
+    width: 100%;
+    color: white;
+}
+
+h1{
+    font-size: 50px;
+    color: rgb(255, 255, 255);
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+h2{
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+p{
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    padding: 5px;
+    size: 80px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.miya{
+    position: relative;
+    width: 40%;
+    height: 40%;
+    border-radius: 5%;
+}
+
+.alma{
+    width: 80%;
+    height: 40%;
+    border: 5px solid #282e39;
+}
+
+.logre{
+    height: 70%;
+    width: 70%;
+    border: 5px solid #282e39;
+}
+
+
+/* FOOTER */
+
+
+
+footer{
+    background-color: #1b1725;
+}
+
+.lin{
+    margin: 10px;
+    width: 60px;
+    height: 60px;
+}
+
+h3{
+    color: rgb(255, 255, 255);
+}
